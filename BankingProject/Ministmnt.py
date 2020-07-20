@@ -3,6 +3,8 @@ import pymysql
 import pymysql.cursors
 from tkinter import messagebox
 
+# all the necessary imports are done
+
 win=Tk()
 win.geometry("650x310")
 win.config(bg="lightpink")
