@@ -8,6 +8,7 @@ win=Tk()
 win.geometry("640x400")
 win.config(bg="lightpink")
 
+# this is the function to calc the avg 
 def average():
     na=n.get()
     am='average'
